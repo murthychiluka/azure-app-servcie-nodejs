@@ -1,4 +1,4 @@
-```
+
 ```text
 The closest GCP equivalent to Azure App Service is Google App Engine.
 
